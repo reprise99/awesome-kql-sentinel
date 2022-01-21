@@ -33,10 +33,10 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Official Docs
 [Back To Top](#Table-Of-Contents)
 
-- [Microsoft Sentinel Docs]
 - [Built-in threat detection rules](https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-built-in)
 - [KQL quick reference](https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference)
 - [Kusto Query Language in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/kusto-overview)
+- [Microsoft Sentinel Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 - [Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)
 - [What's new in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
 
