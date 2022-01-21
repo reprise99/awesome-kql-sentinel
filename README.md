@@ -59,6 +59,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [azure/azure-sentinel](https://github.com/Azure/Azure-Sentinel)
+- [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
 - [microsoft/Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language)
 
 ### Official Forums and Feedback
@@ -96,10 +97,14 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
 
 
-### Community Tools
+### Community Tools and Websites
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Cloud & AI Domain Blog](https://azurecloudai.blog/)
 - [Kusto King - Kusto Knight Learning Track](https://www.kustoking.com/kusto-knight/)
+- [Learn Sentinel](https://learnsentinel.blog/blog/)
+- [Managed Sentinel - Blog](https://www.managedsentinel.com/blog/)
+- [Microsoft Sentinel this Week](https://www.getrevue.co/profile/AzureSentinelToday)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
@@ -108,6 +113,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [marcusbakker/KQL](https://github.com/marcusbakker/KQL)
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL)
+- [wortell/KQL](https://github.com/wortell/KQL)
 
 
 ### Community Forums
