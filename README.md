@@ -103,6 +103,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Sentinel Syslog Workbook](https://www.cloudsma.com/2020/05/azure-sentinel-syslog-workbook/)
 - [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/)
 - [How to Use Office 365 Audit Data with Microsoft Sentinel](https://practical365.com/use-office-365-audit-data-with-microsoft-sentinel/)
 - [Hunting For Anomalies With Time-Series Analysis](https://m365internals.com/2021/02/16/hunting-for-anomalies-with-time-series/)
@@ -131,6 +132,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [marcusbakker/KQL](https://github.com/marcusbakker/KQL)
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL)
+- [scautomation/Azure-Sentinel-Syslog-Workbook](https://github.com/scautomation/Azure-Sentinel-Syslog-Workbook)
 - [wortell/KQL](https://github.com/wortell/KQL)
 
 
