@@ -12,13 +12,13 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
    - [Videos](#Official-Videos)
    - [Announcements and Articles](#Official-Announcements-and-Articles)
    - [Repositories and Tools](#Official-Repositories-and-Tools)
-   - [Forums and Feedback](#Official-Forums-and-Feedback)
+   - [Forums and Feedback](#Official-Forums-and-Websites)
 - [Community](#Community)
    - [Videos](#Community-Videos)
    - [Podcasts](#Community-Podcasts)
    - [Books](#Community-Books)
    - [Articles](#Community-Articles)
-   - [Tools](#Community-Tools)
+   - [Tools](#Community-Tools-and-Websites)
    - [Repositories](#Community-Repositories)
    - [Forums](#Community-Forums)
 
@@ -27,14 +27,18 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 - [Learning path SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)
 - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
+- [Tutorial: Use Kusto queries](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/tutorial?pivots=azuremonitor)
 - [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)
 
 ### Official Docs
 [Back To Top](#Table-Of-Contents)
 
+- [Microsoft Sentinel Docs]
 - [Built-in threat detection rules](https://docs.microsoft.com/en-us/azure/sentinel/detect-threats-built-in)
 - [KQL quick reference](https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference)
 - [Kusto Query Language in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/kusto-overview)
+- [Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)
+- [What's new in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
@@ -65,6 +69,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 - [azure/azure-sentinel](https://github.com/Azure/Azure-Sentinel)
 - [Kusto Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
+- [Log Analytics demo environment](https://ms.portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade)
 - [microsoft/Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language)
 
 ### Official Forums and Websites
