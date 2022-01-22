@@ -68,8 +68,11 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Advanced KQL Framework Workbook - Empowering you to become KQL-savvy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 - [Defending Critical Infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/defending-critical-infrastructure-with-the-microsoft-sentinel-it/ba-p/3061184)
 - [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
+- [How To Align Your Analytics With Time Windows In Azure Sentinel Using KQL (Kusto Query Language)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-align-your-analytics-with-time-windows-in-azure-sentinel/ba-p/1667574)
 - [Investigating Suspicious Azure Activity with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699)
 - [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
+- [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
+- [Using External Data Sources To Enrich Network Logs Using Azure Storage And KQL](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-external-data-sources-to-enrich-network-logs-using-azure/ba-p/1450345)
 
 
 ### Official Repositories and Tools
