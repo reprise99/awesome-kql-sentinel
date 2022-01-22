@@ -21,6 +21,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
    - [Tools and Websites](#Community-Tools-and-Websites)
    - [Repositories](#Community-Repositories)
    - [Forums](#Community-Forums)
+   - [Twitter Resources](#twitter)
 
 ### Official Learn
 [Back To Top](#Table-Of-Contents)
@@ -43,6 +44,9 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Sentinel webinar: KQL part 1 of 3 - Learn the KQL you need for Azure Sentinel](https://youtu.be/EDCBLULjtCM)
+- [Azure Sentinel webinar: KQL part 2 of 3 - KQL hands-on lab exercises](https://youtu.be/YKD_OFLMpf8)
+- [Azure Sentinel webinar: KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance](https://youtu.be/jN1Cz0JcLYU)
 - [Azure Sentinel Webinar: The Information Model: Understanding Normalization in Azure Sentinel](https://youtu.be/WoGD-JeC7ng)
 - [Azure Sentinel Webinar: Deep Dive into Azure Sentinel Normalizing Parsers and Normalized Content](https://youtu.be/zaqblyjQW6k)
 - [Become a Notebooks Ninja – Getting Started with Jupyter Notebooks - Microsoft Sentinel Webinar](https://youtu.be/JLOhfoovASE)
@@ -61,6 +65,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Advanced KQL Framework Workbook - Empowering you to become KQL-savvy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 - [Defending Critical Infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/defending-critical-infrastructure-with-the-microsoft-sentinel-it/ba-p/3061184)
 - [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
+- [Investigating Suspicious Azure Activity with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699)
 - [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 
 
@@ -112,6 +117,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Hunting Log4j with Sentinel](https://www.eshlomo.us/hunting-log4j-with-sentinel/)
 - [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel)
 - [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
+- [Kusto Make-Series vs Summarize](https://www.cloudsma.com/2021/04/kusto-make-series-vs-summarize/)
 - [Log4j Incident Response](https://www.eshlomo.us/log4j-incident-response/)
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
@@ -122,6 +128,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Cloud & AI Domain Blog](https://azurecloudai.blog/)
+- [Cloud, Systems Management, Automation](https://www.cloudsma.com/)
 - [FalconForce](https://www.falconforce.nl/en/blog/)
 - [Kusto King - Kusto Knight Learning Track](https://www.kustoking.com/kusto-knight/)
 - [Learn Sentinel](https://learnsentinel.blog/blog/)
@@ -147,3 +154,16 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 - [Stack Overflow - KQL](https://stackoverflow.com/questions/tagged/kql)
 - [Reddit - Azure](https://reddit.com/r/AZURE)
+
+### Twitter Resources
+[Back To Top](#Table-Of-Contents)
+
+- [Alex Verboon](https://twitter.com/alexverboon)
+- [Billy York](https://twitter.com/SCAutomation)
+- [DebugPrivilege](https://twitter.com/DebugPrivilege)
+- [Elli (IR)](https://twitter.com/misconfig)
+- [FalconForce Official](https://twitter.com/falconforceteam)
+- [Jan Geisbauer](https://twitter.com/JanGeisbauer)
+- [Kaido Järvemets](https://twitter.com/kaidja)
+- [Matt Zorich](https://twitter.com/reprise_99)
+- [Rod Trent](https://twitter.com/rodtrent)
