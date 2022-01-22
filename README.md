@@ -87,9 +87,9 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [Microsoft Security Community - Youtube](https://www.youtube.com/c/MicrosoftSecurityCommunity)
+- [Microsoft Security Insights - Podcast](https://open.spotify.com/show/5GnrHASof2GBIV3h53wnUK)
 - [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
 - [Microsoft Sentinel TechCommunity](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel)
-
 
 ## Community
 
