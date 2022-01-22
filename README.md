@@ -155,7 +155,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Stack Overflow - KQL](https://stackoverflow.com/questions/tagged/kql)
 - [Reddit - Azure](https://reddit.com/r/AZURE)
 
-### Twitter Resources
+### Twitter
 [Back To Top](#Table-Of-Contents)
 
 - [Alex Verboon](https://twitter.com/alexverboon)
