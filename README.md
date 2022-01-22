@@ -27,6 +27,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [Learning path SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)
+- [KQL - The Next Query Language You Need to Learn](https://docs.microsoft.com/en-us/shows/data-exposed/kql-the-next-query-language-you-need-to-learn)
 - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [Tutorial: Use Kusto queries](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/tutorial?pivots=azuremonitor)
 - [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)
@@ -56,6 +57,8 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Latest Innovations for Microsoft's Cloud Native SIEM Recording - Microsoft Sentinel Webinar](https://youtu.be/kGctnb4ddAE)
 - [Microsoft Security Insights Podcast - Twitch](https://www.twitch.tv/microsoftsecurityinsights)
 - [Microsoft Sentinel Content Management](https://youtu.be/3iF__S-_v7A)
+- [M365 Defender - Kusto query language basics](https://www.microsoft.com/videoplayer/embed/RWRwfJ)
+- [M365 Defender - Using Advanced Hunting](https://www.microsoft.com/videoplayer/embed/RE4G6DO)
 - [Present and Future of EUBA](https://www.youtube.com/watch?v=dLVAkSLKLyQ)
 
 
@@ -134,6 +137,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Learn Sentinel](https://learnsentinel.blog/blog/)
 - [Managed Sentinel - Blog](https://www.managedsentinel.com/blog/)
 - [Microsoft Sentinel this Week](https://www.getrevue.co/profile/AzureSentinelToday)
+- [SecureCloudBlog](https://securecloud.blog/)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)

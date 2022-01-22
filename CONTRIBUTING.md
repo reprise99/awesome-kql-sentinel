@@ -14,12 +14,13 @@
   - Videos
   - Announcements and Articles
   - Repositories and Tools
-  - Forums and Feedback
+  - Forums and Websites
 - Community
   - Videos
   - Podcasts
   - Books
   - Articles
-  - Tools
+  - Tools and Websites
   - Repositories
   - Forums
+  - Twitter Resources
