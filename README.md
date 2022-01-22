@@ -88,6 +88,8 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [AzureFunBytes Episode 64 - Building SOC Efficiency with @Azure Sentinel with @rodtrent](https://youtu.be/wuqCjUmOFV0)
+- [Azure Sentinel Lab Series](https://www.youtube.com/playlist?list=PLM3TOIlrnaI6B9ikTWz8A0FY812ZqBO3_)
+- [GrayHat 2020 - Blue Teaming with Kusto Query Language, KQL - Ashwin Patil](https://www.youtube.com/watch?v=IMZkqTEBFeA)
 - [Managing Microsoft Sentinel using GIT repositories](https://youtu.be/A-rL3JIwEQ4)
 
 ### Community Podcasts
@@ -107,7 +109,10 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/)
 - [How to Use Office 365 Audit Data with Microsoft Sentinel](https://practical365.com/use-office-365-audit-data-with-microsoft-sentinel/)
 - [Hunting For Anomalies With Time-Series Analysis](https://m365internals.com/2021/02/16/hunting-for-anomalies-with-time-series/)
+- [Hunting Log4j with Sentinel](https://www.eshlomo.us/hunting-log4j-with-sentinel/)
 - [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel)
+- [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
+- [Log4j Incident Response](https://www.eshlomo.us/log4j-incident-response/)
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
@@ -128,6 +133,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 - [alexverboon/MDATP/tree/master/AdvancedHunting (Advanced Hunting)](https://github.com/alexverboon/MDATP/tree/master/AdvancedHunting)
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
+- [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps)
 - [FalconForceTeam/FalconFriday](https://github.com/FalconForceTeam/FalconFriday)
 - [marcusbakker/KQL](https://github.com/marcusbakker/KQL)
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
