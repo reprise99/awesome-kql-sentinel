@@ -1,4 +1,4 @@
-# How to contribute to AWESOME-Azure-Policy
+# How to contribute to awesome-kql-sentinel
 
 1. Edit the [README.md](https://github.com/reprise99/awesome-kql-sentinel/edit/main/README.md) file.
 2. Find the related section for your contribution (see sections below). Content should align to either **Official (Microsoft) sources** or **Community (Non-Microsoft) sources**.
