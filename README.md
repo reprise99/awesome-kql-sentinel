@@ -176,6 +176,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Billy York](https://twitter.com/SCAutomation)
 - [DebugPrivilege](https://twitter.com/DebugPrivilege)
 - [Elli (IR)](https://twitter.com/misconfig)
+- [Gianni](https://twitter.com/castello_johnny)
 - [FalconForce Official](https://twitter.com/falconforceteam)
 - [Jan Geisbauer](https://twitter.com/JanGeisbauer)
 - [Kaido Järvemets](https://twitter.com/kaidja)
