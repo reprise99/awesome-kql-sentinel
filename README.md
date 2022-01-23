@@ -102,6 +102,8 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Azure Sentinel Lab Series](https://www.youtube.com/playlist?list=PLM3TOIlrnaI6B9ikTWz8A0FY812ZqBO3_)
 - [GrayHat 2020 - Blue Teaming with Kusto Query Language, KQL - Ashwin Patil](https://www.youtube.com/watch?v=IMZkqTEBFeA)
 - [Managing Microsoft Sentinel using GIT repositories](https://youtu.be/A-rL3JIwEQ4)
+- [Setting up your first Azure Sentinel environment in 50 minutes](https://www.youtube.com/watch?v=29T8sWQPOxQ)
+- [Using Azure Sentinel to protect Microsoft Teams](https://www.youtube.com/watch?v=5fRmfUVMEPY)
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
@@ -127,8 +129,11 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Kusto Make-Series vs Summarize](https://www.cloudsma.com/2021/04/kusto-make-series-vs-summarize/)
 - [Log4j Incident Response](https://www.eshlomo.us/log4j-incident-response/)
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
+- [Ollie, your personal Microsoft Sentinel assistant](https://thecollective.eu/blog/ollie-your-personal-microsoft-sentinel-assistant/)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
+- [Setting up a bidirectional sync between Sentinel and JIRA](https://thecollective.eu/news/setting-up-a-bidirectional-sync-between-sentinel-and-jira/)
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
+- [When does enabling Microsoft Sentinel make sense?](https://practical365.com/when-does-enabling-microsoft-sentinel-make-sense/)
 
 
 ### Community Tools and Websites
@@ -162,6 +167,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 - [Stack Overflow - KQL](https://stackoverflow.com/questions/tagged/kql)
 - [Reddit - Azure](https://reddit.com/r/AZURE)
+- [Reddit - Azure Sentinel](https://www.reddit.com/r/azuresentinel)
 
 ### Twitter
 [Back To Top](#Table-Of-Contents)
