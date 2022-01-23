@@ -112,6 +112,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [Microsoft Sentinel in Action](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement-dp-1801815534/dp/1801815534/ref=dp_ob_title_bk)
+- [Microsoft 365 Security eBook](https://m365securitybook.com/)
 
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
