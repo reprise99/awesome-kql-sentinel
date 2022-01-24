@@ -129,6 +129,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Kusto Make-Series vs Summarize](https://www.cloudsma.com/2021/04/kusto-make-series-vs-summarize/)
 - [Log4j Incident Response](https://www.eshlomo.us/log4j-incident-response/)
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
+- [Microsoft Sentinel – How to Leverage built-in Amazon Web Services S3 Data Connector](https://samilamppu.com/2022/01/17/microsoft-sentinel-how-to-leverage-built-in-amazon-web-services-s3-data-connector/)
 - [Ollie, your personal Microsoft Sentinel assistant](https://thecollective.eu/blog/ollie-your-personal-microsoft-sentinel-assistant/)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
 - [Setting up a bidirectional sync between Sentinel and JIRA](https://thecollective.eu/news/setting-up-a-bidirectional-sync-between-sentinel-and-jira/)
