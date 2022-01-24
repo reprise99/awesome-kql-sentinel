@@ -147,6 +147,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Learn Sentinel](https://learnsentinel.blog/blog/)
 - [Managed Sentinel - Blog](https://www.managedsentinel.com/blog/)
 - [Microsoft Sentinel this Week](https://www.getrevue.co/profile/AzureSentinelToday)
+- [Sam's Corner](https://samilamppu.com/)
 - [SecureCloudBlog](https://securecloud.blog/)
 
 ### Community Repositories
@@ -183,3 +184,4 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Kaido Järvemets](https://twitter.com/kaidja)
 - [Matt Zorich](https://twitter.com/reprise_99)
 - [Rod Trent](https://twitter.com/rodtrent)
+- [Sami Lamppu](https://twitter.com/samilamppu)
