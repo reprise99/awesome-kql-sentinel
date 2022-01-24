@@ -10,6 +10,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
    - [Learn](#Official-Learn)
    - [Docs](#Official-Docs)
    - [Videos](#Official-Videos)
+   - [Books](#Official-Books)
    - [Announcements and Articles](#Official-Announcements-and-Articles)
    - [Repositories and Tools](#Official-Repositories-and-Tools)
    - [Forums and Websites](#Official-Forums-and-Websites)
@@ -61,6 +62,10 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [M365 Defender - Using Advanced Hunting](https://www.microsoft.com/videoplayer/embed/RE4G6DO)
 - [Present and Future of EUBA](https://www.youtube.com/watch?v=dLVAkSLKLyQ)
 
+### Official Books
+[Back To Top](#Table-Of-Contents)
+
+- [Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp)
 
 ### Official Announcements and Articles
 [Back To Top](#Table-Of-Contents)
