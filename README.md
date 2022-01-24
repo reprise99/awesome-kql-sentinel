@@ -126,6 +126,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Hunting Log4j with Sentinel](https://www.eshlomo.us/hunting-log4j-with-sentinel/)
 - [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel)
 - [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet)
+- [KQLCeption – use KQL to investigate Microsoft Sentinel](https://learnsentinel.blog/2022/01/24/kqlception/)
 - [Kusto Make-Series vs Summarize](https://www.cloudsma.com/2021/04/kusto-make-series-vs-summarize/)
 - [Log4j Incident Response](https://www.eshlomo.us/log4j-incident-response/)
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
