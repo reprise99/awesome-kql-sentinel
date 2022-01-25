@@ -41,6 +41,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Kusto Query Language in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/kusto-overview)
 - [Microsoft Sentinel Docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 - [Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)
+- [SQL to Kusto cheat sheet](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 - [What's new in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
 
 ### Official Videos
