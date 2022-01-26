@@ -30,7 +30,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Learning path SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)
 - [KQL - The Next Query Language You Need to Learn](https://docs.microsoft.com/en-us/shows/data-exposed/kql-the-next-query-language-you-need-to-learn)
 - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
-- [MustLearnKQL - Video Series][https://www.cyberautomate.io/posts/2022/mustlearnkql-workflow/]
+- [MustLearnKQL - Video Series](https://www.cyberautomate.io/posts/2022/mustlearnkql-workflow/)
 - [Tutorial: Use Kusto queries](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/tutorial?pivots=azuremonitor)
 - [Write your first query with Kusto Query Language](https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/)
 
