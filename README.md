@@ -27,6 +27,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Official Learn
 [Back To Top](#Table-Of-Contents)
 
+- [Addicted to KQL](https://github.com/rod-trent/AddictedtoKQL)
 - [Learning path SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)
 - [KQL - The Next Query Language You Need to Learn](https://docs.microsoft.com/en-us/shows/data-exposed/kql-the-next-query-language-you-need-to-learn)
 - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
