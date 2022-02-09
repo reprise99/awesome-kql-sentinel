@@ -59,8 +59,11 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Fusion ML Detections for Emerging Threats & Configuration UI](https://youtu.be/bTDp41yMGdk) 
 - [KQL Framework for Microsoft Sentinel - Empowering You to Become KQL-Savvy](https://youtu.be/j7BQvJ-Qx_k)
 - [Latest Innovations for Microsoft's Cloud Native SIEM Recording - Microsoft Sentinel Webinar](https://youtu.be/kGctnb4ddAE)
-- [Microsoft Security Insights Podcast - Twitch](https://www.twitch.tv/microsoftsecurityinsights)
 - [Microsoft Sentinel Content Management](https://youtu.be/3iF__S-_v7A)
+- [Microsoft Sentinel in the Field: Part 1 - Managing security content as code](https://www.youtube.com/watch?v=vqLqJhaFNBk)
+- [Microsoft Sentinel in the Field: Part 2 - Learning with the training lab](https://www.youtube.com/watch?v=cAJEiPqocK4)
+- [Microsoft Sentinel in the Field: Part 3 - Deception in Microsoft Sentinel](https://www.youtube.com/watch?v=3mWHcIfa60o)
+- [Microsoft Security Insights Podcast - Twitch](https://www.twitch.tv/microsoftsecurityinsights)
 - [M365 Defender - Kusto query language basics](https://www.microsoft.com/videoplayer/embed/RWRwfJ)
 - [M365 Defender - Using Advanced Hunting](https://www.microsoft.com/videoplayer/embed/RE4G6DO)
 - [Present and Future of EUBA](https://www.youtube.com/watch?v=dLVAkSLKLyQ)
@@ -80,6 +83,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Investigating Suspicious Azure Activity with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699)
 - [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 - [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
+- [Log sources and analytics rules coverage workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/log-sources-and-analytics-rules-coverage-workbook-see-how-your/ba-p/3124444)
 - [Using External Data Sources To Enrich Network Logs Using Azure Storage And KQL](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-external-data-sources-to-enrich-network-logs-using-azure/ba-p/1450345)
 
 
@@ -121,6 +125,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Community Books
 [Back To Top](#Table-Of-Contents)
 
+- [Microsoft Security Operations Analyst Exam Ref SC-200 Certification Guide](https://www.amazon.com/Microsoft-Security-Operations-Analyst-Certification-ebook/dp/B09R4SC4S5/ref=sr_1_1?crid=2OASBP4AR09EE&keywords=Microsoft+Security+Operations+Analyst+Exam+Ref+SC-200&qid=1644445540&s=digital-text&sprefix=microsoft+security+operations+analyst+exam+ref+sc-200%2Cdigital-text%2C301&sr=1-1)
 - [Microsoft Sentinel in Action](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement-dp-1801815534/dp/1801815534/ref=dp_ob_title_bk)
 - [Microsoft 365 Security eBook](https://m365securitybook.com/)
 
@@ -140,9 +145,12 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Microsoft Sentinel and the power of functions](https://learnsentinel.blog/2021/12/16/microsoft-sentinel-and-the-power-of-functions/)
 - [Microsoft Sentinel – How to Leverage built-in Amazon Web Services S3 Data Connector](https://samilamppu.com/2022/01/17/microsoft-sentinel-how-to-leverage-built-in-amazon-web-services-s3-data-connector/)
 - [Monitor Microsoft Sentinel Data Connectors using Health Monitoring and Logic App](https://jeffreyappel.nl/monitor-microsoft-sentinel-data-connectors-using-health-monitoring-and-logic-app/)
+- [Monitoring of GitHub Enterprise with Microsoft Sentinel](https://www.cloud-architekt.net/github-enterprise-monitoring-sentinel/)
 - [Ollie, your personal Microsoft Sentinel assistant](https://thecollective.eu/blog/ollie-your-personal-microsoft-sentinel-assistant/)
+- [Optimize your Microsoft Sentinel pricing](https://medium.com/wortell/optimize-microsoft-sentinel-pricing-ca9901840b75)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
 - [Setting up a bidirectional sync between Sentinel and JIRA](https://thecollective.eu/news/setting-up-a-bidirectional-sync-between-sentinel-and-jira/)
+- [Too much noise in your data? Summarize it!](http://learnsentinel.blog/2022/02/09/summarize-your-data/)
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
 - [When does enabling Microsoft Sentinel make sense?](https://practical365.com/when-does-enabling-microsoft-sentinel-make-sense/)
 
