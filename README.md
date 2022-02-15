@@ -152,6 +152,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Optimize your Microsoft Sentinel pricing](https://medium.com/wortell/optimize-microsoft-sentinel-pricing-ca9901840b75)
 - [Set up Microsoft Sentinel as a single pane of glass for Microsoft 365 alerts](https://practical365.com/set-up-microsoft-sentinel-as-a-single-pane-of-glass-for-microsoft-365-alerts/)
 - [Setting up a bidirectional sync between Sentinel and JIRA](https://thecollective.eu/news/setting-up-a-bidirectional-sync-between-sentinel-and-jira/)
+- [Tag domain controllers automatically in Defender for Endpoint using KQL, Logic App, and API](https://jeffreyappel.nl/tag-domain-controllers-automatically-in-defender-for-endpoint-using-kql-logic-app-and-api/)
 - [Too much noise in your data? Summarize it!](http://learnsentinel.blog/2022/02/09/summarize-your-data/)
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
 - [When does enabling Microsoft Sentinel make sense?](https://practical365.com/when-does-enabling-microsoft-sentinel-make-sense/)
