@@ -49,6 +49,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
 
+- [Automate Your Microsoft Sentinel Triage Efforts with RiskIQ Threat Intelligence](https://www.youtube.com/watch?v=8vTVKitim5c)
 - [Azure Sentinel webinar: KQL part 1 of 3 - Learn the KQL you need for Azure Sentinel](https://youtu.be/EDCBLULjtCM)
 - [Azure Sentinel webinar: KQL part 2 of 3 - KQL hands-on lab exercises](https://youtu.be/YKD_OFLMpf8)
 - [Azure Sentinel webinar: KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance](https://youtu.be/jN1Cz0JcLYU)
@@ -84,8 +85,8 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 - [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
 - [Log sources and analytics rules coverage workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/log-sources-and-analytics-rules-coverage-workbook-see-how-your/ba-p/3124444)
+- [Microsoft Sentinel – continuous threat monitoring for GitHub](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-continuous-threat-monitoring-for-github/ba-p/3037154)
 - [Using External Data Sources To Enrich Network Logs Using Azure Storage And KQL](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-external-data-sources-to-enrich-network-logs-using-azure/ba-p/1450345)
-
 
 ### Official Repositories and Tools
 [Back To Top](#Table-Of-Contents)
@@ -154,7 +155,6 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
 - [When does enabling Microsoft Sentinel make sense?](https://practical365.com/when-does-enabling-microsoft-sentinel-make-sense/)
 
-
 ### Community Tools and Websites
 [Back To Top](#Table-Of-Contents)
 
@@ -181,7 +181,6 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL)
 - [scautomation/Azure-Sentinel-Syslog-Workbook](https://github.com/scautomation/Azure-Sentinel-Syslog-Workbook)
 - [wortell/KQL](https://github.com/wortell/KQL)
-
 
 ### Community Forums
 [Back To Top](#Table-Of-Contents)
