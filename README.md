@@ -178,6 +178,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps)
 - [FalconForceTeam/FalconFriday](https://github.com/FalconForceTeam/FalconFriday)
+- [Kaidja/Azure-Sentinel](https://github.com/Kaidja/Azure-Sentinel)
 - [marcusbakker/KQL](https://github.com/marcusbakker/KQL)
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL)
