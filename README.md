@@ -135,6 +135,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Sentinel Syslog Workbook](https://www.cloudsma.com/2020/05/azure-sentinel-syslog-workbook/)
+- [Collect Security Events in Microsoft Sentinel with the new AMA agent and DCR](https://jeffreyappel.nl/collect-security-events-in-sentinel-with-the-new-ama-agent-and-dcr/)
 - [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/)
 - [How to Use Office 365 Audit Data with Microsoft Sentinel](https://practical365.com/use-office-365-audit-data-with-microsoft-sentinel/)
 - [Hunting For Anomalies With Time-Series Analysis](https://m365internals.com/2021/02/16/hunting-for-anomalies-with-time-series/)
