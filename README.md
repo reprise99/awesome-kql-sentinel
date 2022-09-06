@@ -122,6 +122,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Azure Sentinel Lab Series](https://www.youtube.com/playlist?list=PLM3TOIlrnaI6B9ikTWz8A0FY812ZqBO3_)
 - [AzureFunBytes Episode 64 - Building SOC Efficiency with @Azure Sentinel with @rodtrent](https://youtu.be/wuqCjUmOFV0)
 - [GrayHat 2020 - Blue Teaming with Kusto Query Language, KQL - Ashwin Patil](https://www.youtube.com/watch?v=IMZkqTEBFeA)
+- [Kusto Query Language (KQL) Overview - John Savill](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [Managing Microsoft Sentinel using GIT repositories](https://youtu.be/A-rL3JIwEQ4)
 - [Setting up your first Azure Sentinel environment in 50 minutes](https://www.youtube.com/watch?v=29T8sWQPOxQ)
 - [Using Azure Sentinel to protect Microsoft Teams](https://www.youtube.com/watch?v=5fRmfUVMEPY)
