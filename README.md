@@ -182,6 +182,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Microsoft Sentinel this Week](https://www.getrevue.co/profile/AzureSentinelToday)
 - [Sam's Corner](https://samilamppu.com/)
 - [SecureCloudBlog](https://securecloud.blog/)
+- [KQLSearch](https://www.kqlsearch.com/)
 
 ### Community Repositories
 
@@ -197,6 +198,8 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL)
 - [scautomation/Azure-Sentinel-Syslog-Workbook](https://github.com/scautomation/Azure-Sentinel-Syslog-Workbook)
 - [wortell/KQL](https://github.com/wortell/KQL)
+- [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
+- [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune)
 
 ### Community Forums
 
@@ -205,6 +208,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Reddit - Azure Sentinel](https://www.reddit.com/r/azuresentinel)
 - [Reddit - Azure](https://reddit.com/r/AZURE)
 - [Stack Overflow - KQL](https://stackoverflow.com/questions/tagged/kql)
+- [LinkedIn - Microsoft Sentinel Community](https://www.linkedin.com/groups/8768381/)
 
 ### Twitter
 
@@ -222,3 +226,4 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Matt Zorich](https://twitter.com/reprise_99)
 - [Rod Trent](https://twitter.com/rodtrent)
 - [Sami Lamppu](https://twitter.com/samilamppu)
+- [Bert-Jan Pals](https://twitter.com/BertJanCyber)
