@@ -182,6 +182,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 - [Microsoft Sentinel this Week](https://www.getrevue.co/profile/AzureSentinelToday)
 - [Sam's Corner](https://samilamppu.com/)
 - [SecureCloudBlog](https://securecloud.blog/)
+- [Raml KQL - Multi-Tenant Hunting without MTO]([https://securecloud.blog/](https://github.com/luca-ramseyer/raml-kql/tree/main))
 
 ### Community Repositories
 
