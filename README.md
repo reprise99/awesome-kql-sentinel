@@ -172,6 +172,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 [Back To Top](#Table-Of-Contents)
 
+- [Alan Conlon](https://alanconlon.com/)
 - [Azure Cloud & AI Domain Blog](https://azurecloudai.blog/)
 - [Cloud, Systems Management, Automation](https://www.cloudsma.com/)
 - [FalconForce](https://www.falconforce.nl/en/blog/)
@@ -187,6 +188,7 @@ A curated list of blogs, videos, tutorials, queries and anything else valuable t
 
 [Back To Top](#Table-Of-Contents)
 
+- [alanconlon/kql-hunting-queries](https://github.com/alanconlon/kql-hunting-queries)
 - [alexverboon/MDATP/tree/master/AdvancedHunting (Advanced Hunting)](https://github.com/alexverboon/MDATP/tree/master/AdvancedHunting)
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps)
